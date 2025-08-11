@@ -17,9 +17,6 @@ A simple Pong game implemented in JavaScript, HTML, and CSS.
 - Simple controls
 - Minimalist design
 
-## Screenshot
-![Screenshot](screenshot.png)
-
 ---
 
 Feel free to modify and enhance the game!
